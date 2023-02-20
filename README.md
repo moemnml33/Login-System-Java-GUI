@@ -10,18 +10,18 @@ Simply go to the main driver and type "idandPasswords.addLoginInfo("user", "user
 
 ### Program startup:
  
-![](Images/Image1.png)
+![](Images/image1.png)
 
 ### Admin login:
 
-![](Images/Image2.png)
+![](Images/image2.png)
 
 ### Wrong password input:
 
-![](Images/Image3.png)
+![](Images/image3.png)
 
 ### User login:
 
-![](Images/Image3.png)
+![](Images/image4.png)
 
 
